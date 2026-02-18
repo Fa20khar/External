@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(162, 210, 210);
+}
+body h1 {
+    font-size: 28px;
+    font-weight: 700;
+}
+.main-heading1 {
+    background-color: rgb(57, 28, 4);
+    color: rgb(155, 159, 151);
+    text-align: center;
+
+}
+/* Main Heading */
+.main-heading {
+    background-color: rgb(14, 130, 53);
+    color: white;
+    text-align: center;
+}
+
+/* Objective */
+.objective-heading {
+    color: rgb(147, 20, 20);
+    background-color: rgb(80, 209, 134);
+    text-align: center;
+}
+ p {
+    font-size: large;
+    font-weight: 500;
+    background-color: rgb(53, 217, 97);
+}
+
+/* Work Experience */
+.work-heading {
+    background-color: rgb(189, 22, 145);
+    color: white;
+    text-align: center;
+}
+
+/* Company Names */
+.company1 {
+    background-color: rgb(105, 110, 207);
+    color: white;
+}
+
+
+.company2 {
+    background-color: chartreuse;
+}
+
+/*Skills */
+.skills-heading {
+    text-align: center;
+    background-color: rgb(196, 28, 199);
+    color: rgb(14, 136, 30);
+
+}
+
+/* Awards */
+.awards-heading {
+    background-color: rgb(141, 196, 24);
+    color: white;
+    text-align: center;
+}
+
+/* Education */
+.education-heading {
+    background-color: rgb(243, 27, 74);
+    color: white;
+    text-align: center;
+}
+
+/* Assignment Section */
+.assignment-heading {
+    background-color: rgb(165, 179, 13);
+    color: rgb(165, 37, 112);
+    text-align: center;
+}
+
+.assignment-table {
+    width: 100%;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+/* Table heading */
+.assignment-table th {
+    font-weight: 800;   /* bold */
+    font-size: 19px;
+    background-color: rgb(41, 184, 195);
+}
+
+/* Table data */
+.assignment-table td {
+    font-weight: 400;
+    background-color: rgb(216, 83, 185);
+}
+
+/* Links */
+.assignment-table a {
+    text-decoration: none;   /* remove underline */
+    font-weight: 500;
+}
+
+/* Hover effect */
+.assignment-table a:hover {
+    text-decoration: underline;
+}
